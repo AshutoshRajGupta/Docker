@@ -172,7 +172,3 @@ docker-compose logs      # View logs
 ```
 
 ---
-
-## 🎯 Interview-Ready Answer (Short & Crisp)
-
-> “Docker Compose is used to define and run multi-container applications using a single YAML file. It simplifies managing services, networking, and dependencies, making local development and testing environments consistent and easy to run.”
